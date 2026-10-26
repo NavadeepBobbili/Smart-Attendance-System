@@ -4,3 +4,5 @@ dlib-bin
 face-recognition
 pandas
 pillow
+Flask
+gunicorn
